@@ -1,6 +1,6 @@
 # Investigating Car Prices
 Investigation of what makes car prices goes up in Belarus - what are some of the features in the a car that most people look for?
-## The Right Price on Belarus Cars
+
 ### Background
 What effects the prices of the cars in Belarus? Here - we explore the data from catalog listings of cars being sold and exame the different features from color of the vehicle to body shape and engine power of the vehicle. 
 
