@@ -1,4 +1,4 @@
-# Belarus_car
+# Investigating Car Prices
 Investigation of what makes car prices goes up in Belarus - what are some of the features in the a car that most people look for?
 ## The Right Price on Belarus Cars
 ### Background
